@@ -1,0 +1,2 @@
+# Student-Management-System
+This includes student dashboard and admin page. Student can see the all contest on dashboard and also see the contests according to their types. Admin can see the contest at one place and able to add contests. He is also able to add student, update the student data and delete the student data. He can view the whole student at a place and able to see them by name and also by age.
